@@ -18,7 +18,7 @@
                 <div class="caja__trasera">
                     <div class="caja__trasera-login">
                         
-                        <button id="btn__iniciar-sesion">Iniciar Sesión</button>
+                        <button id="btn__iniciar-sesion"></button>
                     </div>
                     <div class="caja__trasera-register">
                         
@@ -27,15 +27,18 @@
                 </div>
 
                 <!--Formulario de Login y registro-->
-                <div class="contenedor__login-register">
+                <CENTER><div class="contenedor__login-register">
                     <!--Login-->
                     <form action="" class="formulario__login">
-                        <h2>Iniciar Sesión</h2>
+                        <h2>Login</h2>
                         <input type="text" placeholder="Correo Electronico">
                         <input type="password" placeholder="Contraseña">
-                        <button>Entrar</button>
+                        <button>Login</button>
+                        <left> <button id="btn__registrarse">Regístrarse</button></left>
+                        
                     </form>
-                </div>
+                    
+                </div></CENTER>
             </div>
 
         </main>
