@@ -34,8 +34,9 @@
                         <input type="text" placeholder="Correo Electronico">
                         <input type="password" placeholder="Contraseña">
                         <button>Login</button>
-                        <left> <button id="btn__registrarse">Regístrarse</button></left>
-                        
+                        <left> <a href="registro.php">Regístrarse
+                        </a></left>
+                         
                     </form>
                     
                 </div></CENTER>

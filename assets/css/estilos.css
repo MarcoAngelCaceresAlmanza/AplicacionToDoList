@@ -48,7 +48,17 @@ main{
     margin: auto;
     position: relative;
 }
-
+a{
+    padding: 10px 40px;
+    margin-top: 40px;
+    border: none;
+    font-size: 14px;
+    background: #46A2FD;
+    font-weight: 600;
+    cursor: pointer;
+    color: white;
+    outline: none;
+}
 .caja__trasera{
     width: 100%;
     padding: 10px 20px;
